@@ -33,6 +33,8 @@ unifiedPackages = [
     'capi-base-common-devel',
     'capi-base-utils',
     'capi-base-utils-devel',
+    'capi-media-tool',
+    'capi-media-tool-devel',
     'capi-system-info',
     'capi-system-info-devel',
     'capi-system-system-settings',
